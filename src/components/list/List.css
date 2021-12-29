@@ -1,0 +1,11 @@
+.List {
+    margin-top: 7px;
+}
+.Item {
+    background-color: #759ebb;
+    border-radius: 5px;
+    width: 650px;
+    margin: auto;
+    margin-bottom: 7px;
+    padding: 2px;
+}

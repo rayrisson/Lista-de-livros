@@ -1,0 +1,29 @@
+.Search{
+    text-align: center;
+    /*width: 40%;
+    height: 50px;*/
+}
+
+.Search input[type=text]{
+    width: 550px;
+    height: 30px;
+}
+
+.Search button{
+    border: none;
+    background-color: #75b5fd;
+    margin-left: 2px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.Search button:hover{
+    background-color: #466d98;
+    cursor: pointer;
+}
+
+.Search button img{
+    width: 40%;
+    height: 40%;
+}
